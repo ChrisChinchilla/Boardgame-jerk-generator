@@ -1,0 +1,14 @@
+{
+  "name": "bgjg",
+  "version": "1.0.1",
+  "description": "Generates random text strings for the Boardgame Jerk bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Chinchilla",
+  "license": "ISC",
+  "dependencies": {
+    "tracery-grammar": "^2.7.3"
+  }
+}
