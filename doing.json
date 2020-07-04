@@ -15,6 +15,7 @@
   "Brewing",
   "Protecting",
   "Eating",
+  "Fixing",
   "Fishing",
   "Watching",
   "Rolling",
@@ -58,5 +59,9 @@
   "Mining",
   "Stitching",
   "Baking",
-  "Cleaning"
+  "Cleaning",
+  "Breaking",
+  "Swimming",
+  "Sailing",
+  "Climbing"
 ]

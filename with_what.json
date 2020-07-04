@@ -34,7 +34,9 @@
   "Dice",
   "Cats",
   "Dogs",
+  "Birds",
   "Rabbits",
+  "Giants",
   "Books",
   "Maps",
   "Diaries",
@@ -42,6 +44,8 @@
   "Cities",
   "TV Shows",
   "Shelves",
+  "Elves",
+  "Dwarves",
   "Escape Rooms",
   "Unspeakable Horrors",
   "Playing Cards",
@@ -54,5 +58,6 @@
   "Swords",
   "Superpowers",
   "Pickaxes",
-  "Online media"
+  "Online media",
+  "Dice"
 ]
